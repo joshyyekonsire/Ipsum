@@ -6,11 +6,11 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    background-image: url("https://imgs.search.brave.com/7bZWCN6-4IGz6Eq7GKdWrAIquhlYLo-geDJx7v1XBeA/rs:fit:1200:1040:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI4Mzc2/OTQuanBn");
+    background-image: url("https://imgs.search.brave.com/w1N-ijOLq3VSYCkPaUbjY4mNCO-tCizkR-CPN-rAJyA/rs:fit:1024:576:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93YzE4MDgz/MTYucG5n");
     background-size: cover;
     background-attachment: fixed;
 }
-
+ 
   h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 36px;
@@ -23,7 +23,6 @@ body {
     line-height: 1.2;
     margin-bottom: 20px;
 }
-
 .num-label {
   font-size: 34px;
   font-weight: bold;

@@ -23,7 +23,11 @@ body {
     line-height: 1.2;
     margin-bottom: 20px;
 }
-
+.num-label {
+  font-size: 34px;
+  font-weight: bold;
+  color: gray;
+}
 
 .container {
     width: 80%;
